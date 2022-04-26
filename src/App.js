@@ -1,8 +1,8 @@
 import React from "react";
-import { useState } from "react";
-import { data } from "./data";
-import Coffee from "./Coffee";
-import Buttons from "./Buttons";
+// import { useState } from "react";
+// import { data } from "./data";
+// import Coffee from "./Coffee";
+// import Buttons from "./Buttons";
 import "./App.css";
 import {
     BrowserRouter as Router,
